@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "type": "Organic / Biodegradable Waste",
+      "description": "Waste that decomposes naturally, such as food scraps, vegetable peels, garden waste, and leftover food.",
+      "recycle_details": "Can be converted into compost through composting bins or vermicomposting. Not recyclable in the traditional sense but reusable as organic fertilizer.",
+      "recommendations": [
+        "Use a separate compost bin at home",
+        "Avoid mixing with plastic or metal waste",
+        "Compost garden waste in a backyard pit"
+      ]
+    },
+    {
+      "type": "Plastic Waste",
+      "description": "Includes bottles, bags, packaging material, containers, and wrappers made of plastic.",
+      "recycle_details": "Recyclable plastics (marked with recycling codes 1-7) should be cleaned and sent to recycling centers. Single-use plastics should be minimized.",
+      "recommendations": [
+        "Avoid single-use plastic bags and bottles",
+        "Rinse containers before disposal",
+        "Segregate by plastic type where possible",
+        "Switch to reusable alternatives like cloth bags"
+      ]
+    },
+    {
+      "type": "E-Waste (Electronic Waste)",
+      "description": "Discarded electronic items such as old phones, batteries, chargers, computers, and appliances.",
+      "recycle_details": "Must be disposed of at authorized e-waste collection centers, never in regular trash, due to hazardous materials like lead and mercury.",
+      "recommendations": [
+        "Never throw batteries or electronics in regular bins",
+        "Donate working electronics instead of discarding",
+        "Use certified e-waste recyclers",
+        "Remove personal data before disposal"
+      ]
+    },
+    {
+      "type": "Paper Waste",
+      "description": "Includes newspapers, cardboard, office paper, books, and packaging paper.",
+      "recycle_details": "Highly recyclable. Clean, dry paper can be recycled into new paper products, cardboard, and packaging.",
+      "recommendations": [
+        "Keep paper dry and free from food contamination",
+        "Flatten cardboard boxes before disposal",
+        "Reuse paper for notes before recycling",
+        "Avoid recycling paper with heavy plastic lamination"
+      ]
+    },
+    {
+      "type": "Glass Waste",
+      "description": "Includes bottles, jars, and broken glassware.",
+      "recycle_details": "Glass is 100% recyclable and can be recycled endlessly without loss of quality. Should be separated by color where required.",
+      "recommendations": [
+        "Rinse glass containers before disposal",
+        "Handle broken glass carefully and wrap before disposal",
+        "Reuse glass jars for storage when possible"
+      ]
+    },
+    {
+      "type": "Metal Waste",
+      "description": "Includes cans, foil, scrap metal, and small appliances.",
+      "recycle_details": "Highly recyclable through scrap metal dealers and municipal recycling programs. Saves significant energy compared to new metal production.",
+      "recommendations": [
+        "Flatten cans to save space",
+        "Separate metal from mixed waste",
+        "Sell scrap metal to authorized recyclers"
+      ]
+    },
+    {
+      "type": "Hazardous Waste",
+      "description": "Includes chemicals, paints, pesticides, medical waste, and cleaning agents.",
+      "recycle_details": "Requires special handling and disposal through hazardous waste facilities. Should never be mixed with regular household waste.",
+      "recommendations": [
+        "Store in original labeled containers",
+        "Never pour down drains or mix with regular trash",
+        "Use designated hazardous waste drop-off points",
+        "Keep away from children and pets"
+      ]
+    }
+  ]
+}
